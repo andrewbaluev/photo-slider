@@ -95,6 +95,7 @@ img {
     height: 100%;
     top: 0;
     outline: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .swiper-button-prev::after,
